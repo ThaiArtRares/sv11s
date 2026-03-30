@@ -1,0 +1,1164 @@
+{
+
+  "setName": "sv11s",
+
+  "setID": "sv11s",
+
+  "setReleaseDate": "2024-03-31",
+
+
+  "cards": [
+    {
+      "cardID": "173",
+      "cardName": "",
+      "pokemonName_en": "Snivy",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "174",
+      "cardName": "",
+      "pokemonName_en": "Servine",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "175",
+      "cardName": "",
+      "pokemonName_en": "Pansage",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "176",
+      "cardName": "",
+      "pokemonName_en": "Simisage",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "177",
+      "cardName": "",
+      "pokemonName_en": "Sewaddle",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "178",
+      "cardName": "",
+      "pokemonName_en": "Swadloon",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "179",
+      "cardName": "",
+      "pokemonName_en": "Leavanny",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "180",
+      "cardName": "",
+      "pokemonName_en": "Cottonee",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "181",
+      "cardName": "",
+      "pokemonName_en": "Petilil",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "182",
+      "cardName": "",
+      "pokemonName_en": "Lilligant",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "183",
+      "cardName": "",
+      "pokemonName_en": "Maractus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "184",
+      "cardName": "",
+      "pokemonName_en": "Deerling",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "185",
+      "cardName": "",
+      "pokemonName_en": "Sawsbuck",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "186",
+      "cardName": "",
+      "pokemonName_en": "Karrablast",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "187",
+      "cardName": "",
+      "pokemonName_en": "Foongus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "188",
+      "cardName": "",
+      "pokemonName_en": "Amoonguss",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "189",
+      "cardName": "",
+      "pokemonName_en": "Shelmet",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "190",
+      "cardName": "",
+      "pokemonName_en": "Accelgor",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "191",
+      "cardName": "",
+      "pokemonName_en": "Virizion",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "192",
+      "cardName": "",
+      "pokemonName_en": "Victini",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "193",
+      "cardName": "",
+      "pokemonName_en": "Tepig",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "194",
+      "cardName": "",
+      "pokemonName_en": "Pignite",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "195",
+      "cardName": "",
+      "pokemonName_en": "Emboar",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "196",
+      "cardName": "",
+      "pokemonName_en": "Pansear",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "197",
+      "cardName": "",
+      "pokemonName_en": "Simisear",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "198",
+      "cardName": "",
+      "pokemonName_en": "Darumaka",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "199",
+      "cardName": "",
+      "pokemonName_en": "Darmanitan",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "200",
+      "cardName": "",
+      "pokemonName_en": "Litwick",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "201",
+      "cardName": "",
+      "pokemonName_en": "Lampent",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "202",
+      "cardName": "",
+      "pokemonName_en": "Chandelure",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "203",
+      "cardName": "",
+      "pokemonName_en": "Heatmor",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "204",
+      "cardName": "",
+      "pokemonName_en": "Larvesta",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "205",
+      "cardName": "",
+      "pokemonName_en": "Volcarona",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "206",
+      "cardName": "",
+      "pokemonName_en": "Oshawott",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "207",
+      "cardName": "",
+      "pokemonName_en": "Dewott",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "208",
+      "cardName": "",
+      "pokemonName_en": "Samurott",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "209",
+      "cardName": "",
+      "pokemonName_en": "Panpour",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "210",
+      "cardName": "",
+      "pokemonName_en": "Simipour",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "211",
+      "cardName": "",
+      "pokemonName_en": "Tympole",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "212",
+      "cardName": "",
+      "pokemonName_en": "Palpitoad",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "213",
+      "cardName": "",
+      "pokemonName_en": "Seismitoad",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "214",
+      "cardName": "",
+      "pokemonName_en": "Basculin",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "215",
+      "cardName": "",
+      "pokemonName_en": "Tirtouga",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "216",
+      "cardName": "",
+      "pokemonName_en": "Carracosta",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "217",
+      "cardName": "",
+      "pokemonName_en": "Ducklett",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "218",
+      "cardName": "",
+      "pokemonName_en": "Swanna",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "219",
+      "cardName": "",
+      "pokemonName_en": "Vanillite",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "220",
+      "cardName": "",
+      "pokemonName_en": "Vanillish",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "221",
+      "cardName": "",
+      "pokemonName_en": "Vanilluxe",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "222",
+      "cardName": "",
+      "pokemonName_en": "Alomomola",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "223",
+      "cardName": "",
+      "pokemonName_en": "Cubchoo",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "224",
+      "cardName": "",
+      "pokemonName_en": "Beartic",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "225",
+      "cardName": "",
+      "pokemonName_en": "Cryogonal",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "226",
+      "cardName": "",
+      "pokemonName_en": "Blitzle",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "227",
+      "cardName": "",
+      "pokemonName_en": "Zebstrika",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "228",
+      "cardName": "",
+      "pokemonName_en": "Emolga",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "229",
+      "cardName": "",
+      "pokemonName_en": "Joltik",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "230",
+      "cardName": "",
+      "pokemonName_en": "Galvantula",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "231",
+      "cardName": "",
+      "pokemonName_en": "Tynamo",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "232",
+      "cardName": "",
+      "pokemonName_en": "Eelektrik",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "233",
+      "cardName": "",
+      "pokemonName_en": "Eelektross",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "234",
+      "cardName": "",
+      "pokemonName_en": "Stunfisk",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "235",
+      "cardName": "",
+      "pokemonName_en": "Thundurus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "236",
+      "cardName": "",
+      "pokemonName_en": "Munna",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "237",
+      "cardName": "",
+      "pokemonName_en": "Musharna",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "238",
+      "cardName": "",
+      "pokemonName_en": "Woobat",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "239",
+      "cardName": "",
+      "pokemonName_en": "Swoobat",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "240",
+      "cardName": "",
+      "pokemonName_en": "Sigilyph",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "241",
+      "cardName": "",
+      "pokemonName_en": "Yamask",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "242",
+      "cardName": "",
+      "pokemonName_en": "Cofagrigus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "243",
+      "cardName": "",
+      "pokemonName_en": "Gothita",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "244",
+      "cardName": "",
+      "pokemonName_en": "Gothorita",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "245",
+      "cardName": "",
+      "pokemonName_en": "Gothitelle",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "246",
+      "cardName": "",
+      "pokemonName_en": "Solosis",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "247",
+      "cardName": "",
+      "pokemonName_en": "Duosion",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "248",
+      "cardName": "",
+      "pokemonName_en": "Reuniclus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "249",
+      "cardName": "",
+      "pokemonName_en": "Frillish",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "250",
+      "cardName": "",
+      "pokemonName_en": "Elgyem",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "251",
+      "cardName": "",
+      "pokemonName_en": "Beheeyem",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "252",
+      "cardName": "",
+      "pokemonName_en": "Golett",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "253",
+      "cardName": "",
+      "pokemonName_en": "Golurk",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "254",
+      "cardName": "",
+      "pokemonName_en": "Roggenrola",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "255",
+      "cardName": "",
+      "pokemonName_en": "Boldore",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "256",
+      "cardName": "",
+      "pokemonName_en": "Gigalith",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "257",
+      "cardName": "",
+      "pokemonName_en": "Drilbur",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "258",
+      "cardName": "",
+      "pokemonName_en": "Timburr",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "259",
+      "cardName": "",
+      "pokemonName_en": "Gurdurr",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "260",
+      "cardName": "",
+      "pokemonName_en": "Conkeldurr",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "261",
+      "cardName": "",
+      "pokemonName_en": "Throh",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "262",
+      "cardName": "",
+      "pokemonName_en": "Sawk",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "263",
+      "cardName": "",
+      "pokemonName_en": "Dwebble",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "264",
+      "cardName": "",
+      "pokemonName_en": "Crustle",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "265",
+      "cardName": "",
+      "pokemonName_en": "Archen",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "266",
+      "cardName": "",
+      "pokemonName_en": "Archeops",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "267",
+      "cardName": "",
+      "pokemonName_en": "Mienfoo",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "268",
+      "cardName": "",
+      "pokemonName_en": "Mienshao",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "269",
+      "cardName": "",
+      "pokemonName_en": "Terrakion",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "270",
+      "cardName": "",
+      "pokemonName_en": "Landorus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "271",
+      "cardName": "",
+      "pokemonName_en": "Purrloin",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "272",
+      "cardName": "",
+      "pokemonName_en": "Liepard",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "273",
+      "cardName": "",
+      "pokemonName_en": "Venipede",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "274",
+      "cardName": "",
+      "pokemonName_en": "Whirlipede",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "275",
+      "cardName": "",
+      "pokemonName_en": "Scolipede",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "276",
+      "cardName": "",
+      "pokemonName_en": "Sandile",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "277",
+      "cardName": "",
+      "pokemonName_en": "Krokorok",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "278",
+      "cardName": "",
+      "pokemonName_en": "Krookodile",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "279",
+      "cardName": "",
+      "pokemonName_en": "Scraggy",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "280",
+      "cardName": "",
+      "pokemonName_en": "Scrafty",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "281",
+      "cardName": "",
+      "pokemonName_en": "Trubbish",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "282",
+      "cardName": "",
+      "pokemonName_en": "Garbodor",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "283",
+      "cardName": "",
+      "pokemonName_en": "Zorua",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "284",
+      "cardName": "",
+      "pokemonName_en": "Zoroark",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "285",
+      "cardName": "",
+      "pokemonName_en": "Vullaby",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "286",
+      "cardName": "",
+      "pokemonName_en": "Mandibuzz",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "287",
+      "cardName": "",
+      "pokemonName_en": "Deino",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "288",
+      "cardName": "",
+      "pokemonName_en": "Zweilous",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "289",
+      "cardName": "",
+      "pokemonName_en": "Escavalier",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "290",
+      "cardName": "",
+      "pokemonName_en": "Ferroseed",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "291",
+      "cardName": "",
+      "pokemonName_en": "Ferrothorn",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "292",
+      "cardName": "",
+      "pokemonName_en": "Klink",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "293",
+      "cardName": "",
+      "pokemonName_en": "Klang",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "294",
+      "cardName": "",
+      "pokemonName_en": "Klinklang",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "295",
+      "cardName": "",
+      "pokemonName_en": "Pawniard",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "296",
+      "cardName": "",
+      "pokemonName_en": "Bisharp",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "297",
+      "cardName": "",
+      "pokemonName_en": "Durant",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "298",
+      "cardName": "",
+      "pokemonName_en": "Cobalion",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "299",
+      "cardName": "",
+      "pokemonName_en": "Axew",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "300",
+      "cardName": "",
+      "pokemonName_en": "Fraxure",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "301",
+      "cardName": "",
+      "pokemonName_en": "Haxorus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "302",
+      "cardName": "",
+      "pokemonName_en": "Druddigon",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "303",
+      "cardName": "",
+      "pokemonName_en": "Patrat",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "304",
+      "cardName": "",
+      "pokemonName_en": "Watchog",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "305",
+      "cardName": "",
+      "pokemonName_en": "Lillipup",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "306",
+      "cardName": "",
+      "pokemonName_en": "Herdier",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "307",
+      "cardName": "",
+      "pokemonName_en": "Stoutland",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "308",
+      "cardName": "",
+      "pokemonName_en": "Pidove",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "309",
+      "cardName": "",
+      "pokemonName_en": "Tranquill",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "310",
+      "cardName": "",
+      "pokemonName_en": "Unfezant",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "311",
+      "cardName": "",
+      "pokemonName_en": "Audino",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "312",
+      "cardName": "",
+      "pokemonName_en": "Minccino",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "313",
+      "cardName": "",
+      "pokemonName_en": "Cinccino",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "314",
+      "cardName": "",
+      "pokemonName_en": "Rufflet",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "315",
+      "cardName": "",
+      "pokemonName_en": "Braviary",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    },
+    {
+      "cardID": "316",
+      "cardName": "",
+      "pokemonName_en": "Torandus",
+      "rarity": "AR",
+      "pokedexNumber": 0,
+      "cardIllustrator": ""
+    }
+  ]
+}
